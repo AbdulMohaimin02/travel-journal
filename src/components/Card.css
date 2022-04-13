@@ -1,0 +1,57 @@
+
+.card{
+    display: flex;
+    padding: 5rem;
+    justify-content: center;
+    
+}
+
+.card-image{
+    width: auto;
+    height: auto;
+    border-radius: 1rem;
+}
+
+.marker{
+    padding: 1rem;
+    width: 1rem;
+}
+
+.topline{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding-left: 1rem;
+    
+}
+
+.link{
+    padding: 1rem;
+    color: gray;
+}
+
+.country{
+    font-size: 1.3rem;
+    font-weight: 300;
+}
+
+.title{
+    padding: 0rem 2rem;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 0;
+}
+
+.date{
+    padding-top: 1rem;
+    padding-left: 2rem;
+    font-weight: 600;
+}
+
+
+
+.info-text{
+    width: 40rem;
+    padding: 0.5rem 2rem;
+    font-weight: 300;
+}

@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #F55A5A;
+    justify-content: center;
+}
+
+
+.globe{
+    padding: 1rem;
+}
+
+.header-heading{
+    color: white;
+}
